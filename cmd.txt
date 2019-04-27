@@ -1,0 +1,4 @@
+python wallet.py info -a addr1
+
+python wallet.py block 1- 
+
